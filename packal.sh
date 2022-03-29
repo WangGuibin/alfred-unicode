@@ -38,6 +38,7 @@ mkdir temp
 cp -R -f icon.png temp
 cp -R -f info.plist temp
 cp -R -f run.js temp
+cp -R -f notificator temp
 cp -R -f package.json temp
 cp -R -f package-lock.json temp
 cp -R -f node_modules temp
